@@ -1,2 +1,2 @@
-# House-Price-Prediction
-house price prediction considering area.
+# house price prediction
+ house price prediction considering area.
